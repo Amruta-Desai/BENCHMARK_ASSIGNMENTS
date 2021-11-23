@@ -1,8 +1,0 @@
-D:\Benchmark\FirstPrg\FirstPrg\bin\Debug\FirstPrg.exe.config
-D:\Benchmark\FirstPrg\FirstPrg\bin\Debug\FirstPrg.exe
-D:\Benchmark\FirstPrg\FirstPrg\bin\Debug\FirstPrg.pdb
-D:\Benchmark\FirstPrg\FirstPrg\obj\Debug\FirstPrg.csproj.AssemblyReference.cache
-D:\Benchmark\FirstPrg\FirstPrg\obj\Debug\FirstPrg.csproj.SuggestedBindingRedirects.cache
-D:\Benchmark\FirstPrg\FirstPrg\obj\Debug\FirstPrg.csproj.CoreCompileInputs.cache
-D:\Benchmark\FirstPrg\FirstPrg\obj\Debug\FirstPrg.exe
-D:\Benchmark\FirstPrg\FirstPrg\obj\Debug\FirstPrg.pdb

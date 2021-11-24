@@ -1,0 +1,8 @@
+D:\Benchmark\EmpProperty\EmpProperty\bin\Debug\EmpProperty.exe.config
+D:\Benchmark\EmpProperty\EmpProperty\bin\Debug\EmpProperty.exe
+D:\Benchmark\EmpProperty\EmpProperty\bin\Debug\EmpProperty.pdb
+D:\Benchmark\EmpProperty\EmpProperty\obj\Debug\EmpProperty.csproj.AssemblyReference.cache
+D:\Benchmark\EmpProperty\EmpProperty\obj\Debug\EmpProperty.csproj.SuggestedBindingRedirects.cache
+D:\Benchmark\EmpProperty\EmpProperty\obj\Debug\EmpProperty.csproj.CoreCompileInputs.cache
+D:\Benchmark\EmpProperty\EmpProperty\obj\Debug\EmpProperty.exe
+D:\Benchmark\EmpProperty\EmpProperty\obj\Debug\EmpProperty.pdb

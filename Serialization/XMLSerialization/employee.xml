@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <empno>1001</empno>
+  <ename>Smith</ename>
+  <designation>Manager</designation>
+  <salary>10000.5</salary>
+</Employee>

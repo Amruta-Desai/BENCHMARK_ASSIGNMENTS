@@ -1,0 +1,9 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    var data = ViewData["response"] as List<SelectListItem> ;
+}
+
+<h2>Index</h2>
+<input value="" /> 
+@Html.DropDownList("res",data) 

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var n1=20;
+        var n2=10;
+   
+        //Arithematic
+        let add = n1+n2;
+        document.write("Addition=" +add + "<br>");
+        let sub =n1-n2;
+        document.write("Subtraction=" + sub +"<br>");
+        let mul =n1*n2;
+        document.write("Multiplication=" + mul +"<br>");
+        let div =n1/n2;
+        document.write("Division=" + div +"<br>");
+
+        //Conditional
+        var num = 78;
+        if(num%2==0){
+            document.write("The number " + num +" is even" +"<br>");
+        }
+        else{
+            document.write("The number " + num +" is odd"+"<br>");
+        }
+
+        var n = 123;
+        if(n<0){
+            document.write("The number "+n+ " is negative"+"<br>");
+        }
+        else if(n >0){
+            document.write("The number "+n+ " positive"+"<br>"); 
+        }
+        else{
+            document.write("The number "+n+ " is zero"+"<br>");
+        }
+
+        var day = 'Friday';
+        switch(day)
+        {
+            case 'Monday':
+                document.write("Monday"+"<br>");
+                break;
+            case 'Thursday':
+                document.write("Thursday"+"<br>");
+                break;
+            case 'Friday':
+                document.write("Friday"+"<br>");
+                break;
+
+        }
+ 
+        var day;
+        switch(new Date().getDay())
+        {
+            case 0:
+                day='Sunday'
+                break;
+            case 1:
+                day='Monday'
+                break;
+            case 2:
+                day='Tueday'
+                break;
+            case 3:
+                day='Wednesday'
+                break;
+            case 4:
+                day='Thursday'
+                break;
+            case 5:
+                day='Friday'
+                break;
+            case 6:
+                day='Saturday'
+                break;
+        }
+        document.write(day);
+
+
+
+        
+
+
+    </script>
+</body>
+</html>

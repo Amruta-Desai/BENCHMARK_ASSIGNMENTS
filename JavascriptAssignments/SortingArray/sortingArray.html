@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    function sorting(ar) {
+     
+     var i = 0, j;
+      
+     while (i < ar.length) {
+         j = i + 1;
+         while (j < ar.length) {
+              
+             if (ar[j] < ar[i]) {
+                 var temp = ar[i];
+                 ar[i] = ar[j];
+                 ar[j] = temp;
+             }
+             j++;
+         }
+         i++;
+     }
+ }
+  
+ // Original Array
+ var arr = [10, 15, 120, 45, 72, 100, 61, 76, 21];
+      
+ // Print Before sortring array
+ document.write("Original Array</br>");
+ document.write(arr);
+      
+ document.write("</br>");
+      
+ // Function call
+ sorting(arr);
+      
+ document.write("</br>Sorted Array</br>");
+      
+ // Print sorted Numeric array
+ document.write(arr);
+    </script>
+</body>
+</html>
